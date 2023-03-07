@@ -3,7 +3,7 @@ creating-saas-application-tech-stack
 
 Part of "Creating - SaaS Application" at https://github.com/vanHeemstraSystems/creating-saas-application
 
-Can be read as "Creating SaaS Application - Tech Stack" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/ctucNWk20QtwQV0UB2vT/
+Can be read as "Creating SaaS Application - Tech Stack" at https://app.gitbook.com/o/QGgiJiNkwpv437Z2nY4O/s/PzgsiAKvIjFvzE5gqB5O/
 
 Can be browsed as "Creating SaaS Application - Tech Stack" at https://vanheemstrasystems.github.io/creating-saas-application-tech-stack/
 
