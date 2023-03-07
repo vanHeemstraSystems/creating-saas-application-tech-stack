@@ -5,3 +5,5 @@ title: "Creating SaaS Application - Tech Stack"
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+This is a part of "Creating SaaS Application" at <https://vanheemstrasystems.github.io/creating-saas-application/>
