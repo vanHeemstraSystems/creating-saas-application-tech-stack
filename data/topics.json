@@ -1,0 +1,24 @@
+{
+	"name": "topics",
+	"children": [{
+			"name": "Tech Stack",
+			"children": [{
+					"name": "Build in-house, buy commercial, or use open source?",
+					"value": 50
+				},
+				{
+					"name": "Programming Language",
+					"value": 50
+				},
+				{
+					"name": "Server-side Framework",
+					"value": 50
+				},
+				{
+					"name": "Database",
+					"value": 50
+				}
+			]
+		}
+	]
+}
